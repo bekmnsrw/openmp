@@ -1,0 +1,4 @@
+# ninja log v5
+1	111	7251524460218737	build.ninja	88874d978b6080f4
+155	293	7175060113439419	openmp.exe	49b0041ed4251517
+5	154	7175060112118715	CMakeFiles/openmp.dir/iterations/openmp9.cpp.obj	8e5ffb4b5a3506c6

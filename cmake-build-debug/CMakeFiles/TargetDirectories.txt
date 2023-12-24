@@ -1,0 +1,3 @@
+C:/Users/Ilya/CLionProjects/openmp/cmake-build-debug/CMakeFiles/openmp.dir
+C:/Users/Ilya/CLionProjects/openmp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ilya/CLionProjects/openmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
